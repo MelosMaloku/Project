@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Aleo&family=Inter&family=Josefin+Sans:wght@400;700&display=swap");
+::root {
+  font-family: "Aleo", serif;
+  font-family: "Josefin Sans", sans-serif;
+  font-family: "Aleo", serif;
+}
+
+body {
+  position: absolute;
+}
+
+.site-header {
+  position: relative;
+}
+.site-header__img {
+  background-image: url(../../images/mountain.png);
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 1770px;
+  height: 820px;
+}
+.site-header h1 {
+  margin-top: 227px;
+  text-align: center;
+  color: #ffffff;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 48px;
+  line-height: 26px;
+}
+.site-header h2 {
+  text-align: center;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 22px;
+  line-height: 26px;
+  color: #ffffff;
+  letter-spacing: 6.28px;
+  margin-top: 11px;
+}
+
+.input1 {
+  position: absolute;
+  border: none;
+  line-height: normal;
+  margin-left: 113px;
+  margin-top: 19px;
+  text-align: center;
+  font-size: 14px;
+  font-family: "Josefin Sans", sans-serif;
+  width: 227px;
+  height: 26px;
+}
+
+.topnav {
+  position: relative;
+  margin-left: 552px;
+  margin-top: 46px;
+  width: 503px;
+  height: 63px;
+  background: #ffffff;
+}
+
+button {
+  position: absolute;
+  width: 153px;
+  height: 63px;
+  left: 500px;
+  top: 0px;
+  background-color: #5474FD;
+  border: 1px solid;
+}
+
+.header-button {
+  color: #ffffff;
+  font-family: "Aleo", serif;
+  font-size: 14px;
+  color: #ffffff;
+  text-align: center;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 1.4px;
+  border: 1px solid;
+}
+
+/*# sourceMappingURL=style.css.map */
